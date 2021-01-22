@@ -20,11 +20,19 @@ We wanted to create a blogging application where we could use passwords and sign
 
 # Heroku Link to Deployed Application:
 
- https://tranquil-savannah-13949.herokuapp.com/
+https://whispering-stream-30896.herokuapp.com/
+
 
  # Link to Github Repository:
 
+* needed to recreate repo to work on heroku hosting issues... 
+
+(this is the oringal repo)
 https://github.com/Lohelani/potentially-a-blog
+
+
+(this is the repo linked to my personal heroku version)
+https://github.com/jsgarzi/Potentially-A-Blog
 
 # Screenshot
 
